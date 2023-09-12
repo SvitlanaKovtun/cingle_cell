@@ -1,0 +1,10 @@
+Single_cell_data/
+pipeCD86.pickle
+sampled_data.npz
+sampled_data1.npz
+sampled_data2.npz
+svd_donor1_day1.pkl
+svd_model_10500_6000.joblib
+X.csv
+y.csv
+model_test.joblib
